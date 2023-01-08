@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello I´m Steffi
  I’m currently completing a continuing education program at Supercode
 
 
