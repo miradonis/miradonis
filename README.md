@@ -19,5 +19,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
+Look the snake is eating my contributions... 
 ![snake gif](https://github.com/miradonis/miradonis/blob/output/github-contribution-grid-snake.gif)
