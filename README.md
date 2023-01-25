@@ -19,6 +19,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<img src="https://raw.githubusercontent.com/miradonis/miradonis/blob/output/snake.svg" alt="Snake animation" />
 
-###
