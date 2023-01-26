@@ -1,5 +1,6 @@
 ### <div align="center">
-  I'm Steffi, a passionate frontend developer from Germany 👨‍💻 currently in training 🚀</div>   
+  I'm Steffi, a passionate frontend developer from Germany 👨‍💻 
+</div>   
   
 
 - 🔭 I am currently studying at  [Supercode](https://www.super-code.de/)  
