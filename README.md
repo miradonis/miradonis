@@ -1,9 +1,6 @@
 ### <div align="center">
   I'm Steffi, a passionate frontend developer from Germany 👨‍💻 
-</div>   
-  
-
-- 🔭 I am currently studying at  [Supercode](https://www.super-code.de/)  
+</div>     
   
 
 - ⚡ Fun fact: If you look at the computer, you forget to blink  
