@@ -2,7 +2,7 @@
 </div>  
   
 
-### <div align="center">I'm Steffi, a passionate frontend developer from Germany 👨‍💻 working remotely 🚀</div>  
+### <div align="left">I'm Steffi, a passionate frontend developer from Germany 👨‍💻 working remotely 🚀</div>  
   
 
 -  Fun fact: If you look at the computer, you forget to blink  
