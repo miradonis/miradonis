@@ -23,22 +23,13 @@
 <img src="https://github.com/miradonis/miradonis/assets/92485350/149f226e-f7d5-497c-acd3-1ef2478c8937" alt="bootstrap" width="40" height="40">
 <img src="https://github.com/miradonis/miradonis/assets/92485350/81a16dc3-3cb1-47fe-b4d6-2bc00c585368" alt="react" width="40" height="40">
 <img src="https://github.com/miradonis/miradonis/assets/92485350/32f8e54c-278e-417d-9701-3b4d9abb2f70" alt="typeScript" width="40" height="40">
+<img src="https://github.com/miradonis/miradonis/assets/92485350/c9682dbb-a513-4d06-bdce-e9cb030e62a9" alt="firebase" width="40" height="40">
+<img src="https://github.com/miradonis/miradonis/assets/92485350/ac1fe471-7947-45f0-b8d8-02a9aa808f08" alt="figma" width="40" height="40">
+<img src="https://github.com/miradonis/miradonis/assets/92485350/2a8493de-8887-4a44-a895-fb844ca276e8" alt="git" width="40" height="40">
+<img src="https://github.com/miradonis/miradonis/assets/92485350/34052677-e64f-4eb3-ad91-679d41a42fd1" alt="node.js" width="40" height="40">
+<img src="https://github.com/miradonis/miradonis/assets/92485350/5eca2f55-4b1c-4647-85c4-ff3cb8aadc10" alt="AWS" width="40" height="40">
+<img src="https://github.com/miradonis/miradonis/assets/92485350/9f0f671c-b900-43b9-8b59-6ecb636ea57f" alt="MongoDB" width="40" height="40">
 
-
-
-
-
-
-
-
-
-![typescript](https://github.com/miradonis/miradonis/assets/92485350/32f8e54c-278e-417d-9701-3b4d9abb2f70)
-![firebase](https://github.com/miradonis/miradonis/assets/92485350/c9682dbb-a513-4d06-bdce-e9cb030e62a9)
-![figma](https://github.com/miradonis/miradonis/assets/92485350/ac1fe471-7947-45f0-b8d8-02a9aa808f08)
-![git](https://github.com/miradonis/miradonis/assets/92485350/2a8493de-8887-4a44-a895-fb844ca276e8)
-![node](https://github.com/miradonis/miradonis/assets/92485350/34052677-e64f-4eb3-ad91-679d41a42fd1)
-![aws](https://github.com/miradonis/miradonis/assets/92485350/5eca2f55-4b1c-4647-85c4-ff3cb8aadc10)
-![mongoDB](https://github.com/miradonis/miradonis/assets/92485350/9f0f671c-b900-43b9-8b59-6ecb636ea57f)
 
 
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
