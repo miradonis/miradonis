@@ -1,9 +1,12 @@
-### <div align="center">
-  I'm Steffi, a passionate frontend developer from Germany 👨‍💻 
-</div>     
+<div align="center">
+<img src="" align="center" style="width: 100%" />
+</div>  
   
 
-- ⚡ Fun fact: If you look at the computer, you forget to blink  
+### <div align="center">I'm Steffi, a passionate frontend developer from Germany 👨‍💻 working remotely 🚀</div>  
+  
+
+-  Fun fact: If you look at the computer, you forget to blink  
   
 
 <br/>  
@@ -21,6 +24,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
@@ -42,8 +46,8 @@
 
 ### Data Data Data  
 <div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 </div>
 
 </td></tr></table>  
@@ -56,7 +60,7 @@
 <a href="https://github.com/miradonis" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/stefanie-peschke-9112bb220" target="_blank">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/stefanie-peschke-9112bb220/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -72,17 +76,17 @@
 
 
 ## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=miradonis&&style=flat-square" align="center" />
 </div>  
+  
+
+<br/>  
+
+  
+
+<br/>  
+
   
 
 <br/>  
