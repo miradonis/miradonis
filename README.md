@@ -1,4 +1,4 @@
-<h1>Hey I´m Steffi</h1>
+<h1>Hey I´m Steffi 👸🏼</h1>
 
 <h3 align="left">A passionate frontend developer from Germany 🚀</h3>
 <br/>
