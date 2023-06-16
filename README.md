@@ -33,7 +33,6 @@
 <img src="https://github.com/miradonis/miradonis/assets/92485350/9f0f671c-b900-43b9-8b59-6ecb636ea57f" alt="MongoDB" width="55" height="55">
 <br/>
 <img src="https://github.com/miradonis/miradonis/assets/92485350/de592d6f-2830-4b4e-9f0e-462ec216f396" alt="Trello" width="55" height="55">
-<img src="https://github.com/miradonis/miradonis/assets/92485350/f3e14380-45d7-45a6-ae35-c29deda7af6a" alt="Notion" width="45" height="45">
 
 
 
