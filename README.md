@@ -20,8 +20,8 @@
 <img src="https://github.com/miradonis/miradonis/assets/92485350/d4c8d93b-41cf-4332-934e-3617cd392c71" alt="css" width="40" height="40">
 <img src="https://github.com/miradonis/miradonis/assets/92485350/83fa5bb6-1d52-4c96-942f-026b6a6e2341" alt="javascript" width="40" height="40">
 <img src="https://github.com/miradonis/miradonis/assets/92485350/82db8f89-e9ef-49a0-8595-9479f0249dc0" alt="sass" width="40" height="40">
-<img src="https://github.com/miradonis/miradonis/assets/92485350/149f226e-f7d5-497c-acd3-1ef2478c8937" alt="bootstrap" width="300" height="200">
-<img src="https://github.com/miradonis/miradonis/assets/92485350/81a16dc3-3cb1-47fe-b4d6-2bc00c585368" alt="react" width="300" height="200">
+<img src="https://github.com/miradonis/miradonis/assets/92485350/149f226e-f7d5-497c-acd3-1ef2478c8937" alt="bootstrap" width="40" height="40">
+<img src="https://github.com/miradonis/miradonis/assets/92485350/81a16dc3-3cb1-47fe-b4d6-2bc00c585368" alt="react" width="40" height="40">
 
 
 
