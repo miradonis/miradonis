@@ -1,5 +1,8 @@
 <h1>Hey I´m Steffi 👸🏼</h1>
 
+<br/>
+<br/>
+
 <h3 align="left">A passionate frontend developer from Germany 🚀</h3>
 <br/>
 
