@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=miradonis&show_icons=true&locale=en" alt="miradonis" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miradonis&show_icons=true&locale=en" alt="miradonis" /></p>
 
 <br/>
 <br/>
