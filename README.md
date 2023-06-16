@@ -30,10 +30,10 @@
 <img src="https://github.com/miradonis/miradonis/assets/92485350/2a8493de-8887-4a44-a895-fb844ca276e8" alt="git" width="55" height="55" hspace=10>
 <img src="https://github.com/miradonis/miradonis/assets/92485350/34052677-e64f-4eb3-ad91-679d41a42fd1" alt="node.js" width="55" height="55" hspace=10>
 <img src="https://github.com/miradonis/miradonis/assets/92485350/78440e74-5a93-48ef-8f2e-0ff6842ecfed" alt="AWS" width="50" height="50" hspace=10>
-<img src="https://github.com/miradonis/miradonis/assets/92485350/9f0f671c-b900-43b9-8b59-6ecb636ea57f" alt="MongoDB" width="55" height="55" hspace=10>
+<img src="https://github.com/miradonis/miradonis/assets/92485350/24fd70f4-e148-4688-903e-f5101cc17cfc" alt="MongoDB" width="50" height="50">
 <br/>
 <img src="https://github.com/miradonis/miradonis/assets/92485350/de592d6f-2830-4b4e-9f0e-462ec216f396" alt="Trello" width="55" height="55" hspace=10>
-<img src="https://github.com/miradonis/miradonis/assets/92485350/24fd70f4-e148-4688-903e-f5101cc17cfc" alt="MongoDB" width="50" height="50">
+
 
 
 
