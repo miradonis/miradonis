@@ -1,5 +1,3 @@
-
-
 <h1>Hy I´m Steffi</h1>
 
 <h3 align="left">A passionate frontend developer from Germany 🚀</h3>
@@ -18,7 +16,7 @@
 <br/>
 <br/>
 
----
+___
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miradonis&show_icons=true&locale=en" alt="miradonis" /></p>
 
