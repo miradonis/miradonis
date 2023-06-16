@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Steffi</h1>
-<h3 align="left">A passionate frontend developer from Germany</h3>
+<h3 align="left">A passionate frontend developer from Germany 🚀</h3>
+<br/>
 
 
 <h3 align="left">Connect with me:</h3>
