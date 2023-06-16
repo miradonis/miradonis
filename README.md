@@ -27,11 +27,11 @@
 <img src="https://github.com/miradonis/miradonis/assets/92485350/ac1fe471-7947-45f0-b8d8-02a9aa808f08" alt="figma" width="50" height="50">
 <img src="https://github.com/miradonis/miradonis/assets/92485350/c9682dbb-a513-4d06-bdce-e9cb030e62a9" alt="firebase" width="50" height="50">
 <br/>
-
 <img src="https://github.com/miradonis/miradonis/assets/92485350/2a8493de-8887-4a44-a895-fb844ca276e8" alt="git" width="50" height="50">
 <img src="https://github.com/miradonis/miradonis/assets/92485350/34052677-e64f-4eb3-ad91-679d41a42fd1" alt="node.js" width="50" height="50">
 <img src="https://github.com/miradonis/miradonis/assets/92485350/5eca2f55-4b1c-4647-85c4-ff3cb8aadc10" alt="AWS" width="50" height="50">
 <img src="https://github.com/miradonis/miradonis/assets/92485350/9f0f671c-b900-43b9-8b59-6ecb636ea57f" alt="MongoDB" width="50" height="50">
+<br/>
 <img src="https://github.com/miradonis/miradonis/assets/92485350/de592d6f-2830-4b4e-9f0e-462ec216f396" alt="Trello" width="50" height="50">
 
   
