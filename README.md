@@ -16,7 +16,7 @@
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
 
-<img src="https://github.com/miradonis/miradonis/assets/92485350/6b1f7634-f368-464f-983f-91e300792f34" alt="html" width="55" height="55" >
+<img src="https://github.com/miradonis/miradonis/assets/92485350/6b1f7634-f368-464f-983f-91e300792f34" alt="html" width="55" height="55" hspace=20 >
 <img src="https://github.com/miradonis/miradonis/assets/92485350/d4c8d93b-41cf-4332-934e-3617cd392c71" alt="css" width="55" height="55">
 <img src="https://github.com/miradonis/miradonis/assets/92485350/83fa5bb6-1d52-4c96-942f-026b6a6e2341" alt="javascript" width="55" height="55">
 <img src="https://github.com/miradonis/miradonis/assets/92485350/32f8e54c-278e-417d-9701-3b4d9abb2f70" alt="typeScript" width="55" height="55">
