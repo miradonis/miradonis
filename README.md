@@ -26,7 +26,7 @@
 <img src="https://github.com/miradonis/miradonis/assets/92485350/149f226e-f7d5-497c-acd3-1ef2478c8937" alt="bootstrap" width="55" height="55" hspace=10>
 <img src="https://github.com/miradonis/miradonis/assets/92485350/ac1fe471-7947-45f0-b8d8-02a9aa808f08" alt="figma" width="55" height="55" hspace=10>
 <img src="https://github.com/miradonis/miradonis/assets/92485350/c9682dbb-a513-4d06-bdce-e9cb030e62a9" alt="firebase" width="55" height="55" hspace=10>
-<img src="https://github.com/miradonis/miradonis/assets/92485350/202f8e3b-ea45-4707-9748-d09a43948b00" alt="supabase-logo-icon" width="55" height="55" hspace=10>
+<img src="https://github.com/miradonis/miradonis/assets/92485350/202f8e3b-ea45-4707-9748-d09a43948b00" alt="supabase-logo-icon" width="50" height="50" hspace=10>
 <br/>
 <img src="https://github.com/miradonis/miradonis/assets/92485350/2a8493de-8887-4a44-a895-fb844ca276e8" alt="git" width="55" height="55" hspace=10>
 <img src="https://github.com/miradonis/miradonis/assets/92485350/34052677-e64f-4eb3-ad91-679d41a42fd1" alt="node.js" width="55" height="55" hspace=10>
